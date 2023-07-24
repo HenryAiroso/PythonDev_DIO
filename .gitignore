@@ -127,7 +127,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+DioDev
+.DioDev
 DioDev/
+
 # Spyder project settings
 .spyderproject
 .spyproject

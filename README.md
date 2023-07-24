@@ -25,12 +25,4 @@ Fique à vontade para explorar os diretórios neste repositório, onde encontrar
 
 Sinta-se à vontade para clonar este repositório e seguir junto com o curso. Você também pode conferir os commits para ver as atualizações e melhorias ao longo do tempo.
 
-## Pré-requisitos
-
-Para aproveitar ao máximo o curso, é recomendável ter conhecimento básico de lógica de programação, incluindo variáveis, condicionais e loops. Conhecimentos prévios sobre programação orientada a objetos também são úteis, mas não obrigatórios.
-
-Vamos começar essa jornada incrível no mundo do Python e Desenvolvimento Web! Espero que você goste do conteúdo e aproveite ao máximo o curso.
-
-Se tiver alguma dúvida ou precisar de ajuda, não hesite em entrar em contato.
-
 Vamos codar juntos! 🚀
